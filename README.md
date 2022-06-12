@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="https://github.com/Rrsszxx98.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+
+
 # Note
 
 1. Jangan Disalah Gunakan
