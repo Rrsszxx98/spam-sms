@@ -11,6 +11,17 @@ $ pkg install git
 $ pkg install python
 $ git clone https://github.com/Rrsszxx98/spam-sms
 $ cd spam-sms
-$ $ pip install -r requirements.txt
+$ pip install -r requirements.txt
+$ python spam.py
+```
+
+# Google Shell
+
+```bash
+1. search google shell on google/your browser
+2. click on the google shell. then click go to console.
+
+$ git clone https://github.com/Rrsszxx98/spam-sms
+$ pip install -r requirements.txt
 $ python spam.py
 ```
