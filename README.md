@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://github.com/Rrsszxx98.jpg/.png
-</p>
-
 # Note
 
 1. Jangan Disalah Gunakan
@@ -29,3 +25,6 @@ $ git clone https://github.com/Rrsszxx98/spam-sms
 $ pip install -r requirements.txt
 $ python spam.py
 ```
+
+## ```Thanks to ✨```
+* [`KannaChann`](https://github.com/kannachann)
